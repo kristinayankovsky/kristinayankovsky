@@ -169,10 +169,10 @@ A multithreaded browser engine implementing core browser functionality including
 #  GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kristinayankovsky&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristinayankovsky&layout=compact&hide_border=true&langs_count=8" height="165"/>
+  <a href="https://github.com/kristinayankovsky">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-
 ---
 
 #  Connect With Me!:
