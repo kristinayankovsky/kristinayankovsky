@@ -10,13 +10,13 @@ I enjoy working on projects that are meaningful — from distributed build syste
 
 ##  About Me:
 
-- 🎓 B.S. in **Software Engineering** at Bellevue College
-- 📊 **4.00/4.00 GPA**
-- 💻 Software Engineer Intern experience across **Java, C#, Python, JavaScript, AWS, Azure, and distributed systems**
-- 🤖 Building an **AI Coding Agent** using TypeScript, Lua, Rust, Bun, and Docker
-- ⚙️ Interested in **distributed systems, developer infrastructure, AI/ML, backend engineering, and systems programming**
-- 🧠 Teaching Assistant for advanced **Data Structures & Algorithms**
-- ☁️ Experience working with **AWS, Azure, Docker, Kubernetes, and CI/CD**
+-  B.S. in **Software Engineering** at Bellevue College
+-  **4.00/4.00 GPA**
+-  Software Engineer Intern experience across **Java, C#, Python, JavaScript, AWS, Azure, and distributed systems**
+-  Building an **AI Coding Agent** using TypeScript, Lua, Rust, Bun, and Docker
+-  Interested in **distributed systems, developer infrastructure, AI/ML, backend engineering, and systems programming**
+-  Teaching Assistant for advanced **Data Structures & Algorithms**
+-  Experience working with **AWS, Azure, Docker, Kubernetes, and CI/CD**
 
 ---
 
@@ -47,7 +47,7 @@ I enjoy working on projects that are meaningful — from distributed build syste
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack:
 
 ### Languages
 
@@ -61,6 +61,8 @@ I enjoy working on projects that are meaningful — from distributed build syste
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -167,8 +169,8 @@ A multithreaded browser engine implementing core browser functionality including
 #  GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kristinayankovsky&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristinayankovsky&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
